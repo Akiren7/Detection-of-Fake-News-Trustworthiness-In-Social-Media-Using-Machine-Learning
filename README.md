@@ -6,7 +6,8 @@ The rapid proliferation of digital misinformation presents a significant challen
 
 By extracting features such as sentiment polarity, lexical diversity, and punctuation ratios, the models evaluate how the news is written rather than what it is about, allowing the system to remain effective across diverse and evolving topics.
 
-Methodology
+<h1> Methodology </h1>
+
 The data pipeline consists of gathering baseline datasets (like WELFake, Politifact, Gossipcop) and augmenting them through external scraping using the newspaper3k library to balance the classes.
 
 A comprehensive feature engineering process extracts 9 distinct stylometric attributes:
