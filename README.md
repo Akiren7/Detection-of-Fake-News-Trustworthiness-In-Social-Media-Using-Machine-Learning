@@ -36,7 +36,7 @@ Note: The original large datasets and interim CSV files are not included in this
 
 <h1> Model Performance & Overfit Mitigation </h1>
 
-Initial training phases revealed significant overfitting in complex models, with generalization gaps reaching nearly <mark>17%</mark>. Through strategic pruning, depth limitation, and hyperparameter optimization, the generalization gap was successfully <mark>reduced to 4.80%</mark>, achieving a peak test accuracy of <mark>82.16%</mark> with an <mark>AUC of 0.90.</mark>
+Initial training phases revealed significant overfitting in complex models, with generalization gaps reaching nearly <mark>17%</mark>. Through strategic pruning, depth limitation, and hyperparameter optimization, the generalization gap was successfully <mark>reduced to 4.80%</mark>, achieving a peak test accuracy of <mark style="background-color: red">82.16%</mark> with an <mark>AUC of 0.90.</mark>
 
 <img width="659" height="381" alt="Feature Importance" src="Visuals/Benchmark of Model Performance.png" />
 
