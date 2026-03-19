@@ -42,3 +42,4 @@ Initial training phases revealed significant overfitting in complex models, with
 
 <img width="659" height="381" alt="Feature Importance" src="Visuals/ANN Correlation Matrix.png" />
 
+<img width="659" height="381" alt="Feature Importance" src="Visuals/ROC Curve.png" />
