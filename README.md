@@ -1,6 +1,6 @@
 # Detection-of-Fake-News-Trustworthiness-In-Social-Media-Using-Machine-Learning
 
-<h1> Overview <h1/>
+<h1> Overview <h1\>
 
 The rapid proliferation of digital misinformation presents a significant challenge to the integrity of social media ecosystems. Most existing solutions rely on fact-checking semantic claims, which quickly become outdated. This project develops a robust, content-agnostic machine learning system for automated fake news detection by prioritizing Textual Stylometry—the structural "fingerprints" of deceptive writing.
 
