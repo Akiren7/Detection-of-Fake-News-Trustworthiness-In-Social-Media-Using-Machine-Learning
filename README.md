@@ -29,3 +29,5 @@ A comprehensive feature engineering process extracts 9 distinct stylometric attr
 8. Question Mark Count
 
 9. Digit Ratio
+
+<img width="659" height="381" alt="Feature Importance" src="[https://github.com/user-attachments/assets/b31252cc-1f84-49e9-90ca-e6592895bfa0](https://github.com/Akiren7/Detection-of-Fake-News-Trustworthiness-In-Social-Media-Using-Machine-Learning/blob/main/Visuals/Feature%20Importance.png)" />
